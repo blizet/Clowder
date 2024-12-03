@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  basePath: '/Clowder', 
-  trailingSlash: true,  
-  output: 'export',     
-};
+const nextConfig = {};
 
 export default nextConfig;
